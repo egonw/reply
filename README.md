@@ -10,7 +10,21 @@ needs to aim for. This will be partly based on your piece [1], my presentation a
 HQ in London last autumn [2], and our own feedback to Plan S [3]. My write up here, is my personal,
 researcher perspective. Writing this up will take me time; we have a lot to discuss.
 
+MUCH TO FOLLOW HERE
 
+
+....
+
+
+....
+
+
+Looking forward to hearing from you,
+
+with kind regards,
+
+Egon Willighagen
+https://orcid.org/0000-0001-7542-0286
 
 
 0. [https://jcheminf.biomedcentral.com/](https://jcheminf.biomedcentral.com/) <br />
