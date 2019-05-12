@@ -13,7 +13,7 @@ researcher perspective. Writing this up will take me time; we have a lot to disc
 
 
 
-0.
-1.
-2.
-3.
+0. [https://jcheminf.biomedcentral.com/](https://jcheminf.biomedcentral.com/) <br />
+1. [https://www.springernature.com/gp/advancing-discovery/blog/blogposts/a-faster-path-to-an-open-future/16705466](https://www.springernature.com/gp/advancing-discovery/blog/blogposts/a-faster-path-to-an-open-future/16705466) <br />
+2. [https://doi.org/10.5281/zenodo.2759479](https://doi.org/10.5281/zenodo.2759479) <br />
+3. [https://doi.org/10.5281/zenodo.2560199](https://doi.org/10.5281/zenodo.2560199) <br />
