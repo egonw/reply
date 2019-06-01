@@ -23,8 +23,13 @@ Access fast, you simply pay attention the BMC branch of SpringerNature. You do n
 search a fast route, you already found it a few years ago. You spent money on buying the fast
 route.
 
-Of course, what you mean is, how can we ensure a non-disruptive route for the closed journals.
-The sentence claims to be for all primary research, but I think you mean for research that
+However, SpringerNature repeatedly advocate deals with research nations that put BMC at an
+disadvantage [4]. By explicitly excluding 100% CC-BY journals from national deals, authors are
+actively encouraged to publish in paywalled and hybrid journals. I do not see how that is
+a fast track.
+
+I can only guess what you mean. Maybe, how can we ensure a non-disruptive route for the closed journals.
+The sentence claims to be for all primary research, but I assume you mean for research that
 people want to publish in glossy journals.
 
 The whole idea that some journals are expensive because you need to reject so many articles,
@@ -36,19 +41,46 @@ bad articles.
 
 Second, after almost 20 years of Open Access, saying that SpringerNature needs to find a
 solution, makes me wonder what the company has been doing (or not doing) in those 20 years.
+That gets me to my next point, why this opening sentence is horribly wrong. At least, if
+the goal is knowledge dissemination. 
 
-That gets me to my next point, why this opening sentence is horribly wrong.
+Scholarly knowledge is diverse. Research output is in the first place data, models, standards,
+software, not articles. The term "primary research" is a grave misnomer. The journal article
+is secondary research. The article is a derivative of the primary research. BioMedCentral has
+long understood this, and advocated many years ago for better access to, for example, the
+research data.
 
+Seeing the journal article as "primary research" is a step back in time. And where I had
+hoped BioMedCentral would bring innovation to SpringerNature. Instead, as become clear to
+me with your message is that instead BioMedCentral is set back to a 19th century publishing
+technology approach.
 
+In a recent reply to Plan S we outlined that Plan S, like your message, focused to much on
+Open Access [3]. If we want to use our research funding more efficiently, we need reproducible
+science and Open Access alone does will not acchieve that.
 
-MUCH TO FOLLOW HERE
+That brings me to another strong claim: "[SpringerNature] can move from being an **enabler** to
+being a **driver** of the OA transition". I find that very hard to reconsile with the earlier
+message of strong support of hybrid journals (which is strong support for closed access, which
+is the opposite of OA) and the deliberate exclusion of full OA journals. You can talk the talk,
+but I would prefer SpringerNature to walk the walk.
 
+The paragraph ends with the proposal of being Transformative Publisher. Complying to expectations
+set by others is, to me, much closer to a defintion of an **enabler** and not a **driver**.
+Instead, a real **driver** would explain cOAlitionS how they are not transformative enough.
+Walk the walk.
 
-....
+I find the suggestion to start driving the transition honestly embarrashing when you bought a company
+has been driving OA for almost 20 years. You label yourself as taking a **passive** approach
+but I fail to see how BioMedCentral has not been **active**. Well, maybe until SpringerNature
+bought them. And, well, made them passive? An explanation is most welcome.
 
+If you want to be an **active** driver, you would do everything in your capacity to improve
+knowledge dissemination. BioMedCentral has shown plenty of examples, for example, with their
+Open Data effort that started already in 2010 [5]. If you really want to be a driver, you
+would have adopted CC0 for SciGraph too [6], following the approach of BioMedCentral.
 
-....
-
+My invitation to SpringerNature is, therefore, to be a genuine Transformative Publisher.
 
 Looking forward to hearing from you,
 
@@ -62,3 +94,6 @@ https://orcid.org/0000-0001-7542-0286
 1. [https://www.springernature.com/gp/advancing-discovery/blog/blogposts/a-faster-path-to-an-open-future/16705466](https://www.springernature.com/gp/advancing-discovery/blog/blogposts/a-faster-path-to-an-open-future/16705466) <br />
 2. [https://doi.org/10.5281/zenodo.2759479](https://doi.org/10.5281/zenodo.2759479) <br />
 3. [https://doi.org/10.5281/zenodo.2560199](https://doi.org/10.5281/zenodo.2560199) <br />
+4. [https://twitter.com/SpringerNature/status/1131783015774838784](https://twitter.com/SpringerNature/status/1131783015774838784) <br />
+5. [https://www.biomedcentral.com/about/policies/open-data](https://www.biomedcentral.com/about/policies/open-data) <br />
+6. [https://scigraph.springernature.com/explorer](https://scigraph.springernature.com/explorer) <br />
