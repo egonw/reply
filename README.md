@@ -33,9 +33,9 @@ The sentence claims to be for all primary research, but I assume you mean for re
 people want to publish in glossy journals.
 
 The whole idea that some journals are expensive because you need to reject so many articles,
-is a self-fulfilling profecy you opted in for: these "prestiguous" journals have a long
-history of boosting impact factors (like the campain for Nature, where a personal subscription
-costed only as much as the impact factor). By cherrishing "prestiguous" you created an
+is a self-fulfilling prophecy you opted in for: these "prestigious" journals have a long
+history of boosting impact factors (like the campaign for Nature, where a personal subscription
+costed only as much as the impact factor). By cherishing "prestigious" you created an
 artificial shortage. You do not have to reject 90% of the articles; you only need to reject
 bad articles.
 
@@ -57,21 +57,21 @@ technology approach.
 
 In a recent reply to Plan S we outlined that Plan S, like your message, focused to much on
 Open Access [3]. If we want to use our research funding more efficiently, we need reproducible
-science and Open Access alone does will not acchieve that.
+science and Open Access alone does will not achieve that.
 
 That brings me to another strong claim: "[Springer Nature] can move from being an **enabler** to
-being a **driver** of the OA transition" (emphasive from the announcement). I find that
-very hard to reconsile with the earlier
+being a **driver** of the OA transition" (emphasis from the announcement). I find that
+very hard to reconcile with the earlier
 message of strong support of hybrid journals (which is strong support for closed access, which
 is the opposite of OA) and the deliberate exclusion of full OA journals. You can talk the talk,
 but I would prefer Springer Nature to walk the walk.
 
 The paragraph ends with the proposal of being Transformative Publisher. Complying to expectations
-set by others is, to me, much closer to a defintion of an enabler and not a driver.
+set by others is, to me, much closer to a definition of an enabler and not a driver.
 Instead, a real driver would explain cOAlitionS how they are not transformative enough.
 Walk the walk.
 
-I find the suggestion to start driving the transition honestly embarrashing when you bought a company
+I find the suggestion to start driving the transition honestly embarrassing when you bought a company
 has been driving OA for almost 20 years. You label yourself as taking a passive approach
 but I fail to see how BioMedCentral has not been active. Well, maybe until Springer Nature
 bought them. And, well, made them passive? An explanation is most welcome.
