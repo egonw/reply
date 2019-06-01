@@ -1,5 +1,5 @@
 # Reply to 'A faster path to an open future'
-By Egon Willighagen, 12-?? May 2019
+By Egon Willighagen, 1 June 2019
 
 Dear Steven Inchcoombe,
 
