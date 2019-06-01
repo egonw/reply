@@ -60,22 +60,23 @@ Open Access [3]. If we want to use our research funding more efficiently, we nee
 science and Open Access alone does will not acchieve that.
 
 That brings me to another strong claim: "[SpringerNature] can move from being an **enabler** to
-being a **driver** of the OA transition". I find that very hard to reconsile with the earlier
+being a **driver** of the OA transition" (emphasive from the announcement). I find that
+very hard to reconsile with the earlier
 message of strong support of hybrid journals (which is strong support for closed access, which
 is the opposite of OA) and the deliberate exclusion of full OA journals. You can talk the talk,
 but I would prefer SpringerNature to walk the walk.
 
 The paragraph ends with the proposal of being Transformative Publisher. Complying to expectations
-set by others is, to me, much closer to a defintion of an **enabler** and not a **driver**.
-Instead, a real **driver** would explain cOAlitionS how they are not transformative enough.
+set by others is, to me, much closer to a defintion of an enabler and not a driver.
+Instead, a real driver would explain cOAlitionS how they are not transformative enough.
 Walk the walk.
 
 I find the suggestion to start driving the transition honestly embarrashing when you bought a company
-has been driving OA for almost 20 years. You label yourself as taking a **passive** approach
-but I fail to see how BioMedCentral has not been **active**. Well, maybe until SpringerNature
+has been driving OA for almost 20 years. You label yourself as taking a passive approach
+but I fail to see how BioMedCentral has not been active. Well, maybe until SpringerNature
 bought them. And, well, made them passive? An explanation is most welcome.
 
-If you want to be an **active** driver, you would do everything in your capacity to improve
+If you want to be an active driver, you would do everything in your capacity to improve
 knowledge dissemination. BioMedCentral has shown plenty of examples, for example, with their
 Open Data effort that started already in 2010 [5]. If you really want to be a driver, you
 would have adopted CC0 for SciGraph too [6], following the approach of BioMedCentral.
