@@ -1,9 +1,10 @@
 # Reply to 'A faster path to an open future'
-By Egon Willighagen, 1 June 2019
 
-Dear Steven Inchcoombe,
+Egon Willighagen, ...
 
-Thank you for announcing that Springer Nature wants to speed up its effort towards an open future.
+Dear SpringerNature,
+
+Thank you for announcing that Springer Nature wants to speed up its effort towards an open future [XXX].
 As Editor-in-Chief of one of your 100% CC-BY journals [0], I welcome this. At the same time, I
 will try to reply to your piece and with that outline some of my ideas of what Springer Nature
 needs to aim for. This will be partly based on your piece [1], my presentation at Springer Nature
