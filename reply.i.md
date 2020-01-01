@@ -4,12 +4,13 @@ Egon Willighagen, ...
 
 Dear SpringerNature,
 
-Thank you for announcing that Springer Nature wants to speed up its effort towards an open future [XXX].
-As Editor-in-Chief of one of your 100% CC-BY journals [0], I welcome this. At the same time, I
-will try to reply to your piece and with that outline some of my ideas of what Springer Nature
-needs to aim for. This will be partly based on your piece [1], my presentation at Springer Nature
-HQ in London last autumn [2], and our own feedback to Plan S [3]. My write up here, is my personal,
-researcher perspective. Writing this up will take me time; we have a lot to discuss.
+Thank you for announcing that Springer Nature wants to speed up its effort towards an open
+future [<cite>Inchcoombe2019</cite>]. As Editor-in-Chief of one of your 100% CC-BY journals
+[<cite>JCheminf</cite>], I welcome this. At the same time, I will try to reply to the
+announcement and with that outline some of my ideas of what SpringerNature needs to aim for.
+This will be partly based on your post [<cite>Inchcoombe2019</cite>], my presentation at SpringerNature
+HQ in London last autumn [<cite>Q80548239</cite>], and our own feedback to Plan S [<cite>Q61696027</cite>].
+This reply is our personal perspective as researchers and editors of the journal.
 
 The opening sentence is, in my opinion, where it goes wrong: "At Springer Nature we want to find
 the fastest and most effective route to immediate open access (OA) for all primary research."
@@ -25,7 +26,7 @@ search a fast route, you already found it a few years ago. You spent money on bu
 route.
 
 However, Springer Nature repeatedly advocate deals with research nations that put BMC at an
-disadvantage [4]. By explicitly excluding 100% CC-BY journals from national deals, authors are
+disadvantage [<cite>SN2019</cite>]. By explicitly excluding 100% CC-BY journals from national deals, authors are
 actively encouraged to publish in paywalled and hybrid journals. I do not see how that is
 a fast track.
 
@@ -79,23 +80,13 @@ bought them. And, well, made them passive? An explanation is most welcome.
 
 If you want to be an active driver, you would do everything in your capacity to improve
 knowledge dissemination. BioMedCentral has shown plenty of examples, for example, with their
-Open Data effort that started already in 2010 [5]. If you really want to be a driver, you
-would have adopted CC0 for SciGraph too [6], following the approach of BioMedCentral.
+Open Data effort that started already in 2010 [<cite>BMCOD</cite>]. If you really want to be a driver, you
+would have adopted CC0 for SciGraph too [<cite>SNExplorer</cite>], following the approach of BioMedCentral.
 
-My invitation to Springer Nature is, therefore, to be a genuine Transformative Publisher.
+My invitation to SpringerNature is, therefore, to be a genuine Transformative Publisher.
 
 Looking forward to hearing from you,
 
-with kind regards,
+# References
 
-Egon Willighagen
-https://orcid.org/0000-0001-7542-0286
-
-
-0. [https://jcheminf.biomedcentral.com/](https://jcheminf.biomedcentral.com/) <br />
-1. [https://www.springernature.com/gp/advancing-discovery/blog/blogposts/a-faster-path-to-an-open-future/16705466](https://www.springernature.com/gp/advancing-discovery/blog/blogposts/a-faster-path-to-an-open-future/16705466) <br />
-2. [https://doi.org/10.5281/zenodo.2759479](https://doi.org/10.5281/zenodo.2759479) <br />
-3. [https://doi.org/10.5281/zenodo.2560199](https://doi.org/10.5281/zenodo.2560199) <br />
-4. [https://twitter.com/SpringerNature/status/1131783015774838784](https://twitter.com/SpringerNature/status/1131783015774838784) <br />
-5. [https://www.biomedcentral.com/about/policies/open-data](https://www.biomedcentral.com/about/policies/open-data) <br />
-6. [https://scigraph.springernature.com/explorer](https://scigraph.springernature.com/explorer) <br />
+<references/>
